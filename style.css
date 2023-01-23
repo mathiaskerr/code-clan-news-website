@@ -1,0 +1,54 @@
+footer {
+    background-color: dodgerblue;
+    margin: 0px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 1px;
+}
+body {
+    margin: 0;
+}
+.username{
+    width: 100px;
+}
+header {
+    background-color: dodgerblue;
+    padding: 1px;
+    list-style: none;
+    color: white;
+    
+}
+header > h1 {
+    padding-left: 20px;
+}
+
+header> nav > ul{
+    list-style-type: none;
+}
+header > nav > ul > li > a {
+    color: white;
+}
+.news{
+    width: 400px;
+}
+#Main_Article {
+    padding: auto;
+    width: 80%;
+    margin: auto;
+}
+.comments {
+    width: 80%;
+    margin: auto;
+}
+textarea{
+    width: 90%;
+}
+hr {
+    width:90%;
+
+}
+#submit_comment {
+    position:relative;
+    left: 82.3%;
+}
